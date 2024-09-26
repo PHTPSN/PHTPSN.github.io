@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod</title>
+    <title>PaperMod on PHTPSN&#39;s WebSite</title>
     <link>http://localhost:1313/hugo-PaperMod/posts/papermod/</link>
-    <description>Recent content on PaperMod</description>
+    <description>Recent content in PaperMod on PHTPSN&#39;s WebSite</description>
     <image>
-      <title>PaperMod</title>
+      <title>PHTPSN&#39;s WebSite</title>
       <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
       <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
     </image>

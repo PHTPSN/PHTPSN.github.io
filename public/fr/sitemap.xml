@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/hugo-PaperMod/fr/posts/markdown-syntax/"
                 />
@@ -47,8 +42,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/hugo-PaperMod/zh-hk/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -62,11 +62,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/hugo-PaperMod/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -85,18 +80,6 @@
   </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/fr/frseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/fr/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/archives/"
-                />
   </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/fr/search/</loc>
     <xhtml:link

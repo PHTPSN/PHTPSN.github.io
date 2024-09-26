@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
-title: PaperMod
+title: PHTPSN's WebSite
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
 theme: [hugo-PaperMod-master]
@@ -20,6 +20,49 @@ minify:
   # minifyOutput: true
 
 languages:
+  zh-cn:
+    languageName: "简体中文"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 档案
+          url: archives
+          weight: 5
+        - name: 搜索
+          url: search/
+          weight: 10
+        - name: 标签
+          url: tags/
+          weight: 10
+        - name: WiKi
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
+  zh-hk:
+    languageName: "繁體中文"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 檔案
+          url: archives
+          weight: 5
+        - name: 檢索
+          url: search/
+          weight: 10
+        - name: 標籤
+          url: tags/
+          weight: 10
+        - name: WiKi
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
+
   en:
     languageName: "English"
     weight: 1
@@ -42,7 +85,7 @@ languages:
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   fr:
-    languageName: ":fr:"
+    languageName: "Français"
     weight: 2
     title: PaperModL2
     taxonomies:
@@ -54,7 +97,7 @@ languages:
         - name: Archive
           url: archives/
           weight: 5
-        - name: FRTags
+        - name: étiquette
           url: frtags
           weight: 10
         - name: FRCategories
@@ -82,25 +125,6 @@ languages:
             url: posts
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
-
-  fa:
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
-    taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
-    menu:
-      main:
-        - name: FATags
-          url: fatags
-          weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
 
 outputs:
   home:
@@ -146,6 +170,12 @@ params:
   homeInfoParams:
     Title: "PaperMod's Demo"
     Content: >
+      - 还没想好汉语里用哪句话作主页。
+
+      - Our tragedy today is a general and universal physical fear so long sustained by now that we can even bear it.
+
+      - Efforcez-vous d’entrer par la porte étroite, car la porte large et le chemin spacieux mènent à la perdition.
+
       👋 Welcome to demo page of Hugo's theme PaperMod!
 
       - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
@@ -154,19 +184,17 @@ params:
 
       - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
 
+
   socialIcons:
     - name: github
-      title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      title: Github
+      url: "https://github.com/PHTPSN"
+    - name: wechat-official-account
+      title: WeChat Official Account
+      url: "https://mp.weixin.qq.com/s/25F1WHFJ0wL-31BYfVPHfQ"
+    - name: cv
+      title: CV
+      url: ""
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
