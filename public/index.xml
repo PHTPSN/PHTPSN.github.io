@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod</title>
+    <title>PHTPSN&#39;s WebSite</title>
     <link>http://localhost:1313/hugo-PaperMod/</link>
-    <description>Recent content on PaperMod</description>
+    <description>Recent content on PHTPSN&#39;s WebSite</description>
     <image>
-      <title>PaperMod</title>
+      <title>PHTPSN&#39;s WebSite</title>
       <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
       <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
@@ -27,6 +27,13 @@
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-PaperMod/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>http://localhost:1313/hugo-PaperMod/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
@@ -55,6 +62,13 @@
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-PaperMod/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
+    </item>
+    <item>
+      <title>Start Now!</title>
+      <link>http://localhost:1313/hugo-PaperMod/posts/first-passage_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/posts/first-passage_en/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
   </channel>
 </rss>

@@ -47,6 +47,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="http://localhost:1313/hugo-PaperMod/zh-hk/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/hugo-PaperMod/fr/"
                 />
