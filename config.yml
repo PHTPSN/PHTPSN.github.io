@@ -13,6 +13,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+math: true
 mainsections: ["posts", "papermod"]
 
 minify:
