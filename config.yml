@@ -13,16 +13,19 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-math: true
 mainsections: ["posts", "papermod"]
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 
 minify:
   disableXML: true
   # minifyOutput: true
 
 languages:
-  zh-cn:
+  zh_cn:
     languageName: "简体中文"
+    languageCode: zh_cn
+    contentDir: content/zh_cn
     weight: 1
     taxonomies:
       category: categories
@@ -42,30 +45,25 @@ languages:
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
-  zh-hk:
-    languageName: "繁體中文"
-    weight: 1
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: 檔案
-          url: archives
-          weight: 5
-        - name: 檢索
-          url: search/
-          weight: 10
-        - name: 標籤
-          url: tags/
-          weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    params:
+      languageAltTitle: 简体中文
+      profileMode:
+        enabled: true
+        title: 啊……来客人了嘛……<br>欢迎……光临……
+        imageUrl: "files/myimage.png"
+        imageTitle: my image
+        imageWidth: 150
+        imageHeight: 120
+        subtitle: "如果您觉得内容不错，请为我的 Github 打上一颗小星星 🌟，感激不尽！"
+        buttons:
+          - name: Blog
+            url: posts
 
   en:
     languageName: "English"
+    languageCode: en
+    contentDir: content/en
     weight: 1
     taxonomies:
       category: categories
@@ -84,6 +82,21 @@ languages:
           weight: 10
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    params:
+      languageAltTitle: English
+      profileMode:
+        enabled: true
+        title: "Yaaawn... We have guests... <br>Welcome..."
+        imageUrl: "files/myimage.png"
+        imageTitle: my image
+        imageWidth: 150
+        imageHeight: 120
+        subtitle: "Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media."
+        buttons:
+          - name: Blog
+            url: posts
 
   fr:
     languageName: "Français"
@@ -157,27 +170,18 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
-    imageUrl: "#"
+    title: "Yaaawn... We have guests... <br>Welcome..."
+    imageUrl: "files/myimage.png"
     imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
+    imageWidth: 150
+    imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    enabled: false
+    Title: ""
     Content: >
-      - 还没想好汉语里用哪句话作主页。
-
-      - Our tragedy today is a general and universal physical fear so long sustained by now that we can even bear it.
-
-      - Efforcez-vous d’entrer par la porte étroite, car la porte large et le chemin spacieux mènent à la perdition.
-
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      - 👋 Welcome to demo page of Hugo's theme PaperMod!
 
       - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
 
@@ -190,12 +194,18 @@ params:
     - name: github
       title: Github
       url: "https://github.com/PHTPSN"
-    - name: wechat-official-account
+    - name: stackoverflow
+      title: stackoverflow
+      url: "https://github.com/PHTPSN"
+    - name: wechat
       title: WeChat Official Account
       url: "https://mp.weixin.qq.com/s/25F1WHFJ0wL-31BYfVPHfQ"
     - name: cv
       title: CV
-      url: ""
+      url: /files/CV.pdf
+    - name: transcript
+      title: Transcript
+      url: /files/transcript.pdf
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"

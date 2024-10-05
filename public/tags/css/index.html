@@ -188,21 +188,6 @@
 <figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/hugo-PaperMod/images/msg.png" alt="Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)">
 </figure>
   <header class="entry-header">
-    <h2 class="entry-hint-parent">From General Topology to Functional Analysis
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space Introduction The Arzelà–Ascoli theorem stands as a pivotal theorem in functional analysis. It provides a crucial link between the compactness of a function space and its properties of equicontinuity and uniform boundedness. This theorem, named after the Italian mathematicians Giuseppe Arzelà and Enrico Ascoli, has found applications in numerous areas of analysis, ranging from the existence of solutions to differential equations to complex analysis.
-...</p>
-  </div>
-  <footer class="entry-footer">6 min&nbsp;·&nbsp;PHTPSN</footer>
-  <a class="entry-link" aria-label="post link to From General Topology to Functional Analysis" href="http://localhost:1313/hugo-PaperMod/posts/topology/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/hugo-PaperMod/images/msg.png" alt="Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)">
-</figure>
-  <header class="entry-header">
     <h2 class="entry-hint-parent">Start Now!
     </h2>
   </header>
@@ -218,6 +203,39 @@ Change the value of “theme” in “config.yaml” to the name of the theme fo
   </div>
   <footer class="entry-footer">3 min&nbsp;·&nbsp;PHTPSN</footer>
   <a class="entry-link" aria-label="post link to Start Now!" href="http://localhost:1313/hugo-PaperMod/posts/startnow_en/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/hugo-PaperMod/images/msg.png" alt="Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>First and Foremost I wrote this post after studying point-set topology (we skipped the section devoted to metric spaces) and before studying functional analysis. And now, although only a very limited number of functional contact, it seems to be quite plain.
+Main Text Introduction The Arzelà–Ascoli theorem stands as a pivotal theorem in functional analysis. It provides a crucial link between the compactness of a function space and its properties of equicontinuity and uniform boundedness. This theorem, named after the Italian mathematicians Giuseppe Arzelà and Enrico Ascoli, has found applications in numerous areas of analysis, ranging from the existence of solutions to differential equations to complex analysis.
+...</p>
+  </div>
+  <footer class="entry-footer">6 min&nbsp;·&nbsp;PHTPSN</footer>
+  <a class="entry-link" aria-label="post link to Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space" href="http://localhost:1313/hugo-PaperMod/posts/ascoli_en/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>写在前面 本文是我在学习了点集拓扑学（我们跳过了专门讲述度量空间的部分）之后，学习泛函分析之前所写。而现在，尽管只是接触了极其有限的一点泛函，看来都是十分浅显的。所以本文便权当建立 Hugo 博客的练习文本好了。当然结果是非常失败的——我摆弄了几个小时的 \(\href{https://katex.org/}{KaTeX}\) Auto-render Extension，始终没能处理好转义字符的问题，最后还是用之前搞的 MathJax，把所有的 \(\)、\(\)、\, 全都加上一个斜杠才勉强实现现在的效果，但还是居然出现了输一个公式能渲染，再输一遍同样的公式就不能渲染了的情况（只能删掉），而这篇文章中甚至没出现过罗列公式和矩阵！考虑到后续还会有更多更复杂的数学公式要书写，我已经放弃用 markdown &#43; Katex/MathJax，不如直接链接到 Latex 文档呢。（不会 html 和 css 导致的🙈）
+另：vscode 的 Markdown Preview Enhanced 里的 Open in Browser 功能就很漂亮啊，不知道能不能拿来用。不过整个网站的宏观设置都用不了就是。
+这里还是备忘一下现在效果的实现过程：
+themes/hugo-PaperMod-master/layouts/partials/extend_head.html 中添加： {{ if or .Params.math .Site.Params.math }} {{ partial &#34;math.html&#34; . }} {{ end }} 这里以 “math” 为例，可以换成其他名字。 在上述文件夹下新建一个 math.html 文件，并添加： &lt;!DOCTYPE html&gt; &lt;html lang=&#34;en&#34;&gt; &lt;head&gt; &lt;meta charset=&#34;UTF-8&#34;&gt; &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt; &lt;title&gt;Math in Table&lt;/title&gt; &lt;script type=&#34;text/javascript&#34; async src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt; &lt;/script&gt; &lt;style&gt; body { font-family: &#39;Times New Roman&#39;, Times, serif,&#39;楷体&#39; !important; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; （这里还包含了字体信息）。 在需要用到数学公式的文档开头加上 math: true。 好了不说了，滚去学犯寒了（逃）。
+Main Text Introduction The Arzelà–Ascoli theorem stands as a pivotal theorem in functional analysis. It provides a crucial link between the compactness of a function space and its properties of equicontinuity and uniform boundedness. This theorem, named after the Italian mathematicians Giuseppe Arzelà and Enrico Ascoli, has found applications in numerous areas of analysis, ranging from the existence of solutions to differential equations to complex analysis.
+...</p>
+  </div>
+  <footer class="entry-footer">6 min&nbsp;·&nbsp;PHTPSN</footer>
+  <a class="entry-link" aria-label="post link to 对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上" href="http://localhost:1313/hugo-PaperMod/zh-cn/posts/ascoli_zh/"></a>
 </article>
     </main>
     

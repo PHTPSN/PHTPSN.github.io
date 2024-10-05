@@ -22,18 +22,25 @@
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
-      <title>From General Topology to Functional Analysis</title>
-      <link>http://localhost:1313/hugo-PaperMod/posts/topology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/posts/topology/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
-    </item>
-    <item>
       <title>Start Now!</title>
       <link>http://localhost:1313/hugo-PaperMod/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/hugo-PaperMod/posts/startnow_en/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space</title>
+      <link>http://localhost:1313/hugo-PaperMod/posts/ascoli_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/posts/ascoli_en/</guid>
+      <description>Hugo practice is the master, math content is the second.</description>
+    </item>
+    <item>
+      <title>对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/posts/ascoli_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/posts/ascoli_zh/</guid>
+      <description>主要是练习 Hugo，数学内容不重要。</description>
     </item>
   </channel>
 </rss>

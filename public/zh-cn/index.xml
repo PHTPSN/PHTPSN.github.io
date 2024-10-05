@@ -13,5 +13,12 @@
     <language>zh-cn</language>
     <copyright>PaperMod Contributors</copyright>
     <atom:link href="http://localhost:1313/hugo-PaperMod/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/posts/ascoli_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/posts/ascoli_zh/</guid>
+      <description>主要是练习 Hugo，数学内容不重要。</description>
+    </item>
   </channel>
 </rss>

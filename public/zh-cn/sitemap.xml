@@ -6,7 +6,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/categories/"
+                href="http://localhost:1313/hugo-PaperMod/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,11 +19,47 @@
                 href="http://localhost:1313/hugo-PaperMod/zh-cn/categories/"
                 />
   </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/tags/css/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/css/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/tags/html/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/html/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/tags/markdown/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/markdown/"
+                />
+  </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/"
+                href="http://localhost:1313/hugo-PaperMod/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,7 +81,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/series/"
+                href="http://localhost:1313/hugo-PaperMod/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -58,11 +94,23 @@
                 href="http://localhost:1313/hugo-PaperMod/zh-cn/series/"
                 />
   </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/categories/syntax/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/categories/syntax/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/categories/syntax/"
+                />
+  </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/tags/"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -74,5 +122,59 @@
                 hreflang="zh-cn"
                 href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/categories/themes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/categories/themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/categories/themes/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/series/themes-guide/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/series/themes-guide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/posts/ascoli_zh/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/zh-cn/posts/</loc>
   </url>
 </urlset>
