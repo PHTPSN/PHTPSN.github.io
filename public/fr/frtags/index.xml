@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frtags on PaperModL2</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/</link>
+    <link>http://localhost:1313/hugo-PaperMod/fr/frtags/</link>
     <description>Recent content in Frtags on PaperModL2</description>
     <image>
       <title>PaperModL2</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>fr</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-PaperMod/fr/frtags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/css/</link>
+      <link>http://localhost:1313/hugo-PaperMod/fr/frtags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/css/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/fr/frtags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/html/</link>
+      <link>http://localhost:1313/hugo-PaperMod/fr/frtags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/html/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/fr/frtags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/markdown/</link>
+      <link>http://localhost:1313/hugo-PaperMod/fr/frtags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/markdown/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/fr/frtags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/themes/</link>
+      <link>http://localhost:1313/hugo-PaperMod/fr/frtags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/fr/frtags/themes/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/fr/frtags/themes/</guid>
       <description></description>
     </item>
   </channel>

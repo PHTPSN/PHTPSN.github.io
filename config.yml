@@ -128,17 +128,16 @@ languages:
       languageAltTitle: French
       profileMode:
         enabled: true
-        title: PaperMod
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-        imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        title: "Ah... Les invités... Bienvenue..."
+        imageUrl: "files/myimage.png"
+        imageTitle: my image
+        imageWidth: 150
+        imageHeight: 120
+        subtitle: "N’hésitez pas à montrer votre soutien en nous donnant une star 🌟 sur GitHub et en partageant avec vos amis et les médias sociaux."
         buttons:
           - name: Blog
             url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+        
 
 outputs:
   home:
@@ -170,12 +169,17 @@ params:
 
   profileMode:
     enabled: false
-    title: "Yaaawn... We have guests... <br>Welcome..."
-    imageUrl: "files/myimage.png"
-    imageTitle: my image
-    imageWidth: 150
-    imageHeight: 120
+    title: PaperMod
+    imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+    imageTitle: ProfileMode image
+    # imageWidth: 120
+    # imageHeight: 120
+    subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
     buttons:
+      - name: Blog
+        url: posts
+      - name: Profile Mode
+        url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
   homeInfoParams:
     enabled: false
