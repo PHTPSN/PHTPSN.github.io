@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Themes on PHTPSN&#39;s WebSite</title>
-    <link>http://localhost:1313/hugo-PaperMod/en/categories/themes/</link>
+    <link>https://adityatelange.github.io/hugo-PaperMod/en/categories/themes/</link>
     <description>Recent content in Themes on PHTPSN&#39;s WebSite</description>
     <image>
       <title>PHTPSN&#39;s WebSite</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/en/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/en/categories/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/code_syntax/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/code_syntax/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/posts/code_syntax/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/posts/code_syntax/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Start Now!</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/startnow_en/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/startnow_en/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/startnow_en/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Start Now!</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/posts/startnow_en/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/posts/startnow_en/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/startnow_en/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/ascoli_en/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/ascoli_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/ascoli_en/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/ascoli_en/</guid>
       <description>Hugo practice is the master, math content is the second.</description>
     </item>
     <item>
       <title>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/posts/ascoli_en/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/ascoli_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/posts/ascoli_en/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/ascoli_en/</guid>
       <description>Hugo practice is the master, math content is the second.</description>
     </item>
     <item>
       <title>对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上</title>
-      <link>http://localhost:1313/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</guid>
       <description>主要是练习 Hugo，数学内容不重要。</description>
     </item>
   </channel>
