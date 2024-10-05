@@ -202,7 +202,7 @@ params:
       url: "https://mp.weixin.qq.com/s/25F1WHFJ0wL-31BYfVPHfQ"
     - name: cv
       title: CV
-      url: /files/CV.pdf
+      url: /files/CV.pdf # 本地显示不了没关系，上传后是能显示的
     - name: transcript
       title: Transcript
       url: /files/transcript.pdf
