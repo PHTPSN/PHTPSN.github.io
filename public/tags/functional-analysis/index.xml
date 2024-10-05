@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Functional Analysis on PHTPSN&#39;s WebSite</title>
+    <link>http://localhost:1313/hugo-PaperMod/tags/functional-analysis/</link>
+    <description>Recent content in Functional Analysis on PHTPSN&#39;s WebSite</description>
+    <image>
+      <title>PHTPSN&#39;s WebSite</title>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <atom:link href="http://localhost:1313/hugo-PaperMod/tags/functional-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space</title>
+      <link>http://localhost:1313/hugo-PaperMod/posts/ascoli_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/posts/ascoli_en/</guid>
+      <description>Hugo practice is the master, math content is the second.</description>
+    </item>
+  </channel>
+</rss>

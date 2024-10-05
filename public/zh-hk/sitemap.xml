@@ -6,12 +6,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/categories/"
+                href="http://localhost:1313/hugo-PaperMod/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/hugo-PaperMod/zh-cn/categories/"
+                hreflang="zh_cn"
+                href="http://localhost:1313/hugo-PaperMod/zh_cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -23,12 +23,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/"
+                href="http://localhost:1313/hugo-PaperMod/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/hugo-PaperMod/zh-cn/"
+                hreflang="zh_cn"
+                href="http://localhost:1313/hugo-PaperMod/zh_cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,12 +45,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/series/"
+                href="http://localhost:1313/hugo-PaperMod/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/hugo-PaperMod/zh-cn/series/"
+                hreflang="zh_cn"
+                href="http://localhost:1313/hugo-PaperMod/zh_cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -62,12 +62,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/tags/"
+                href="http://localhost:1313/hugo-PaperMod/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/"
+                hreflang="zh_cn"
+                href="http://localhost:1313/hugo-PaperMod/zh_cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"

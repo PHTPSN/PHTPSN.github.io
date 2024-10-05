@@ -13,5 +13,40 @@
     <language>zh-cn</language>
     <copyright>PaperMod Contributors</copyright>
     <atom:link href="http://localhost:1313/hugo-PaperMod/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>点集拓扑学</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>泛函分析</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -13,5 +13,19 @@
     <language>zh-cn</language>
     <copyright>PaperMod Contributors</copyright>
     <atom:link href="http://localhost:1313/hugo-PaperMod/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syntax</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/categories/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/categories/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:1313/hugo-PaperMod/zh-cn/categories/themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/zh-cn/categories/themes/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
