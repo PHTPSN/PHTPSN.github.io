@@ -2,149 +2,230 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PHTPSN&#39;s WebSite</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/en/</link>
+    <link>http://localhost:1313/hugo-PaperMod/en/</link>
     <description>Recent content on PHTPSN&#39;s WebSite</description>
     <image>
       <title>PHTPSN&#39;s WebSite</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-PaperMod/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install / Update PaperMod</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/papermod/papermod-installation/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/papermod/papermod-installation/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
     </item>
     <item>
       <title>Install / Update PaperMod</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/papermod/papermod-installation/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/papermod/papermod-installation/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/papermod/papermod-installation/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/papermod/papermod-installation/</guid>
       <description>Read aboout Install and Update instructions and sampled configuration templates</description>
     </item>
     <item>
       <title>Features / Mods</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/papermod/papermod-features/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/papermod/papermod-features/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
       <title>Features / Mods</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/papermod/papermod-features/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/papermod/papermod-features/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/papermod/papermod-features/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/papermod/papermod-features/</guid>
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax.fa/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax.fa/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax.fa/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax.fa/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide For RTL</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax.fa/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax.fa/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax.fa/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax.fa/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/code_syntax/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/code_syntax/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Code Syntax Guide</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/code_syntax/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/code_syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/code_syntax/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/code_syntax/</guid>
       <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/math-typesetting/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/math-typesetting/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/math-typesetting/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/math-typesetting/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/math-typesetting/</guid>
       <description>A brief guide to setup KaTeX</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/emoji-support/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/emoji-support/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/emoji-support/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/emoji-support/</guid>
       <description>Guide to emoji usage in Hugo</description>
     </item>
     <item>
       <title>Start Now!</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/startnow_en/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/startnow_en/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/startnow_en/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Start Now!</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/startnow_en/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/startnow_en/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/startnow_en/</guid>
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/ascoli_en/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/ascoli_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/ascoli_en/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/ascoli_en/</guid>
       <description>Hugo practice is the master, math content is the second.</description>
     </item>
     <item>
       <title>Topological Discussion of an Important Theorem in Analysis: Arzelà–Ascoli Theorem — On Compact Hausdorff Space</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/ascoli_en/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/ascoli_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/ascoli_en/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/ascoli_en/</guid>
       <description>Hugo practice is the master, math content is the second.</description>
+    </item>
+    <item>
+      <title>Topological Properties of common Metric Spaces</title>
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/spacesinfa_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/spacesinfa_en/</guid>
+      <description>&lt;h1 id=&#34;tables-collection&#34;&gt;Tables Collection&lt;/h1&gt;
+&lt;h2 id=&#34;topological-properties-of-common-metric-spaces&#34;&gt;Topological Properties of common Metric Spaces&lt;/h2&gt;
+&lt;table align = &#34;center&#34;&gt;
+&lt;tbody align = &#34;center&#34; valign = &#34;center&#34;&gt;
+&lt;tr&gt;
+    &lt;th colspan = &#34;6&#34;&gt;Topological Properties of common Metric Spaces&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;th colspan = &#34;2&#34;&gt;Metric Space&lt;/th&gt;
+    &lt;th&gt;Norm&lt;/th&gt;
+    &lt;th&gt;Distance&lt;/th&gt;
+    &lt;td&gt;Separability&lt;/td&gt;
+    &lt;td&gt;Completeness (Banach space for normed space)&lt;/td&gt;  
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td colspan = &#34;2&#34;&gt;\(n\)-dimension Eucilidean space \((\mathbb{R}^n,d)\)&lt;/td&gt;
+    &lt;td&gt;$$\Vert x\Vert = \sqrt{\sum_{i=1}^{n} x_i^2}$$&lt;/td&gt;
+    &lt;td&gt;
+    $$
+    d(x,y) = \sqrt{\sum_{i=1}^{n} (x_i-y_i)^2}
+    $$
+    &lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td rowspan = &#34;2&#34;&gt;Discrete metric space \((X,d_0)\)&lt;/td&gt;
+    &lt;td&gt;\(X\) is countable&lt;/td&gt;
+    &lt;td rowspan = &#34;2&#34;&gt;/&lt;/td&gt;
+    &lt;td rowspan = &#34;2&#34;&gt;$$d_0(x,y)=\begin{cases}0, x=y\\1, x\not=y\end{cases}$$&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;\(X\) is uncountable&lt;/td&gt;
+    &lt;td&gt;&amp;#10007&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td rowspan = &#34;2&#34; colspan = &#34;2&#34;&gt;Space of continuous functions  \(\mathscr{C}[a,b]\)&lt;/td&gt;
+    &lt;td&gt;$$\Vert f\Vert = \max\limits_{x\in [a,b]} \vert f(x)\vert$$&lt;/td&gt;
+    &lt;td&gt;$$d(f,g) = \max\limits_{x\in [a,b]} \vert f(x)-g(x)\vert$$&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td&gt;$$\Vert f\Vert = \int_a^b \vert f(t)\vert \,\mathrm{d}x$$&lt;/td&gt;
+    &lt;td&gt;$$d(f,g) = \int_a^b \vert f(t)-g(t)\vert \,\mathrm{d}x$$&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+    &lt;td&gt;&amp;#10007&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td colspan = &#34;2&#34;&gt;Space of bounded sequences \(\ell^\infty\)&lt;/td&gt;
+    &lt;td&gt;$$\Vert x\Vert = \sup\limits_{i\geq 1} \vert x_i\vert$$&lt;/td&gt;
+    &lt;td&gt;$$d(x,y) = \sup\limits_{i\geq 1} \vert x_i-y_i\vert$$&lt;/td&gt;
+    &lt;td&gt;&amp;#10007&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td colspan = &#34;2&#34;&gt;Variable exponent sequence space \(\ell^p\)&lt;/td&gt;
+    &lt;td&gt;$$\Vert x\Vert = \left(\sum_{i=1}^{\infty} \vert x_i\vert^p\right)^\frac{1}{p}$$&lt;/td&gt;
+    &lt;td&gt;$$d(x,y) = \left(\sum_{i=1}^{\infty} \vert x_i-y_i\vert^p\right)^\frac{1}{p}$$&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td colspan = &#34;2&#34;&gt;\(p\)-norm Lebesgue space \(L^p\)&lt;/td&gt;
+    &lt;td&gt;$$\Vert f\Vert = \left(\int_{[a,b]} \vert f(x)\vert^p \,\mathrm{d}x\right)^\frac{1}{p}$$&lt;/td&gt;
+    &lt;td&gt;$$d(f,g) = \left(\int_{[a,b]} \vert f(x)-g(x)\vert^p \,\mathrm{d}x\right)^\frac{1}{p}$$&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+    &lt;td&gt;&amp;#10003&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/body&gt;</description>
     </item>
     <item>
       <title>对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</link>
+      <link>http://localhost:1313/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/en/zh_cn/posts/ascoli_zh/</guid>
       <description>主要是练习 Hugo，数学内容不重要。</description>
     </item>
   </channel>
