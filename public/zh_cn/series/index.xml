@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on PHTPSN&#39;s WebSite</title>
-    <link>http://localhost:1313/hugo-PaperMod/zh_cn/series/</link>
+    <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/series/</link>
     <description>Recent content in Series on PHTPSN&#39;s WebSite</description>
     <image>
       <title>PHTPSN&#39;s WebSite</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>zh_cn</language>
     <copyright>PaperMod Contributors</copyright>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/zh_cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/zh_cn/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>http://localhost:1313/hugo-PaperMod/zh_cn/series/themes-guide/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/zh_cn/series/themes-guide/</guid>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/series/themes-guide/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>

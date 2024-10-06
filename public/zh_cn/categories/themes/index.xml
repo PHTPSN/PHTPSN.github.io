@@ -2,22 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Themes on PHTPSN&#39;s WebSite</title>
-    <link>http://localhost:1313/hugo-PaperMod/zh_cn/categories/themes/</link>
+    <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/categories/themes/</link>
     <description>Recent content in Themes on PHTPSN&#39;s WebSite</description>
     <image>
       <title>PHTPSN&#39;s WebSite</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>zh_cn</language>
     <copyright>PaperMod Contributors</copyright>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/zh_cn/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/zh_cn/categories/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>抽象代数笔记</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%8A%BD%E8%B1%A1%E4%BB%A3%E6%95%B0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%8A%BD%E8%B1%A1%E4%BB%A3%E6%95%B0%E7%AC%94%E8%AE%B0/</guid>
+      <description>&lt;h1 id=&#34;目录&#34;&gt;目录&lt;/h1&gt;
+&lt;h2 id=&#34;第一部分-群notes群pdf&#34;&gt;&lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/notes/%E7%BE%A4.pdf&#34;&gt;第一部分 群&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;第二部分-环与域notes环与域pdf&#34;&gt;&lt;a href=&#34;https://adityatelange.github.io/hugo-PaperMod/notes/%E7%8E%AF%E4%B8%8E%E5%9F%9F.pdf&#34;&gt;第二部分 环与域&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>分析学笔记</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E5%88%86%E6%9E%90%E5%AD%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E5%88%86%E6%9E%90%E5%AD%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>复分析、实分析、泛函分析和调和分析</description>
+    </item>
+    <item>
+      <title>概率统计笔记</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0/</guid>
+      <description>概率论、数理统计、高等概率论、多元统计分析、随机过程</description>
+    </item>
+    <item>
+      <title>拓扑学笔记</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%8B%93%E6%89%91%E5%AD%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%8B%93%E6%89%91%E5%AD%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description>一般拓扑学、代数拓扑</description>
+    </item>
+    <item>
+      <title>优化与控制笔记</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E4%BC%98%E5%8C%96%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E4%BC%98%E5%8C%96%E4%B8%8E%E6%8E%A7%E5%88%B6%E7%AC%94%E8%AE%B0/</guid>
+      <description>凸优化、线性控制理论、智能优化算法</description>
+    </item>
     <item>
       <title>对一个重要的分析定理——Arzelà–Ascoli 定理的拓扑讨论——在紧 Hausdorff 空间上</title>
-      <link>http://localhost:1313/hugo-PaperMod/zh_cn/posts/ascoli_zh/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/ascoli_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/zh_cn/posts/ascoli_zh/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/ascoli_zh/</guid>
       <description>主要是练习 Hugo，数学内容不重要。</description>
     </item>
   </channel>

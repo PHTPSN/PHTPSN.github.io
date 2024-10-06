@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frcategories on PaperModL2</title>
-    <link>http://localhost:1313/hugo-PaperMod/fr/frcategories/</link>
+    <link>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/</link>
     <description>Recent content in Frcategories on PaperModL2</description>
     <image>
       <title>PaperModL2</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>fr</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/fr/frcategories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/hugo-PaperMod/fr/frcategories/syntax/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/fr/frcategories/syntax/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/hugo-PaperMod/fr/frcategories/themes/</link>
+      <link>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/fr/frcategories/themes/</guid>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/fr/frcategories/themes/</guid>
       <description></description>
     </item>
   </channel>

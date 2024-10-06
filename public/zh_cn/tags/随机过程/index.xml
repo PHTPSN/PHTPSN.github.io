@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>随机过程 on PHTPSN&#39;s WebSite</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/tags/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/</link>
+    <description>Recent content in 随机过程 on PHTPSN&#39;s WebSite</description>
+    <image>
+      <title>PHTPSN&#39;s WebSite</title>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>zh_cn</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/zh_cn/tags/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>概率统计笔记</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/zh_cn/posts/%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E7%AC%94%E8%AE%B0/</guid>
+      <description>概率论、数理统计、高等概率论、多元统计分析、随机过程</description>
+    </item>
+  </channel>
+</rss>
