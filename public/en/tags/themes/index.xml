@@ -2,44 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Themes on PHTPSN&#39;s WebSite</title>
+<<<<<<< HEAD
     <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/themes/</link>
     <description>Recent content in Themes on PHTPSN&#39;s WebSite</description>
     <image>
       <title>PHTPSN&#39;s WebSite</title>
       <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
       <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+=======
+    <link>http://localhost:1313/hugo-PaperMod/en/tags/themes/</link>
+    <description>Recent content in Themes on PHTPSN&#39;s WebSite</description>
+    <image>
+      <title>PHTPSN&#39;s WebSite</title>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="https://adityatelange.github.io/hugo-PaperMod/en/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/markdown-syntax/</guid>
+=======
+    <atom:link href="http://localhost:1313/hugo-PaperMod/en/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/markdown-syntax/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/markdown-syntax/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/markdown-syntax/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Start Now!</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/en/posts/startnow_en/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/en/posts/startnow_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/en/posts/startnow_en/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
     <item>
       <title>Start Now!</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/posts/startnow_en/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/posts/startnow_en/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/posts/startnow_en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/posts/startnow_en/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
     </item>
   </channel>

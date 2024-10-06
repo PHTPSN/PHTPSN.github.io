@@ -9,12 +9,22 @@
   </sitemap>
   
   <sitemap>
+<<<<<<< HEAD
     <loc>https://adityatelange.github.io/hugo-PaperMod/zh_cn/sitemap.xml</loc>
+=======
+    <loc>http://localhost:1313/hugo-PaperMod/zh_cn/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/hugo-PaperMod/fr/sitemap.xml</loc>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
     
       <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     
   </sitemap>
   
+<<<<<<< HEAD
   <sitemap>
     <loc>https://adityatelange.github.io/hugo-PaperMod/fr/sitemap.xml</loc>
     
@@ -22,4 +32,6 @@
     
   </sitemap>
   
+=======
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
 </sitemapindex>

@@ -2,16 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PHTPSN&#39;s WebSite</title>
+<<<<<<< HEAD
     <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/</link>
     <description>Recent content in Tags on PHTPSN&#39;s WebSite</description>
     <image>
       <title>PHTPSN&#39;s WebSite</title>
       <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
       <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+=======
+    <link>http://localhost:1313/hugo-PaperMod/en/tags/</link>
+    <description>Recent content in Tags on PHTPSN&#39;s WebSite</description>
+    <image>
+      <title>PHTPSN&#39;s WebSite</title>
+      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
     </image>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://adityatelange.github.io/hugo-PaperMod/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -103,83 +113,172 @@
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/docs/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/docs/</guid>
+=======
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-PaperMod/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docs</title>
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/docs/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/docs/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/papermod/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/papermod/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/papermod/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Css</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/css/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/css/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Html</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/html/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/html/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/markdown/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/markdown/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Themes</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/themes/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/themes/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Code</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/code/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/code/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/code/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/code/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Gist</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/gist/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/gist/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/gist/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/syntax/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/syntax/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/emoji/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/emoji/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Functional Analysis</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/functional-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/functional-analysis/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/functional-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/functional-analysis/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
     <item>
       <title>Point Set Topology</title>
+<<<<<<< HEAD
       <link>https://adityatelange.github.io/hugo-PaperMod/en/tags/point-set-topology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://adityatelange.github.io/hugo-PaperMod/en/tags/point-set-topology/</guid>
+=======
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/point-set-topology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/point-set-topology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>泛函分析</title>
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/%E6%B3%9B%E5%87%BD%E5%88%86%E6%9E%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>点集拓扑学</title>
+      <link>http://localhost:1313/hugo-PaperMod/en/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-PaperMod/en/tags/%E7%82%B9%E9%9B%86%E6%8B%93%E6%89%91%E5%AD%A6/</guid>
+>>>>>>> 4b182d8338597aba97f7783e51e6df8c31e58805
       <description></description>
     </item>
   </channel>
